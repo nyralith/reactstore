@@ -1,4 +1,3 @@
-import { Switch } from "react-router";
 import CartActionTypes from './cart.types'
 
 const INITIAL_STATE = {
